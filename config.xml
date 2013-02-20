@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.feedhenry.keyang.xiang.client.apis.app.%28sencha%29" version="1.0" width="1024" height="768" start="index.html">
+<title>Client APIs App (Sencha)</title>
+<description>This App allows the User to test various On-Device functionality available through the FeedHenry API.</description>
+<author name="" email="" url=""></author>
+<license></license>
+</widget>
